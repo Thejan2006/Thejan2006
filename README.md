@@ -1,16 +1,14 @@
-## Hi there 👋
+##   Welocom you,  Hi there 👋
 
-<!--
-**Thejan2006/Thejan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy programming and building small projects.  
+Currently learning Python, AI, and web development.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Next.js / React
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: thejan@email.com
+- LinkedIn: https://linkedin.com/in/thejan
