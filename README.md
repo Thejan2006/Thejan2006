@@ -17,3 +17,4 @@ Currently learning Python, AI, and web development.
 ## Projects
 - CSE stock Predictions 
 - Simple School Result Mark Anaylis 
+- Bank Management System 
