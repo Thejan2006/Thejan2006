@@ -18,4 +18,4 @@ Currently learning Python, AI, and web development.
 - CSE stock Predictions 
 - Simple School Result Mark Anaylis 
 - Bank Management System
-- Isuru Computer Selling E-commerce Wesite
+- Isuru Computer Selling E-commerce Website 
