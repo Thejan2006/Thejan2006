@@ -84,7 +84,7 @@ I’m an **undergraduate in AI and Data Engineering** from Sri Lanka who enjoys 
 
 <div align="center">
   <!-- Real GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Thejan2006&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9" alt="Thejan's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Thejan2006&theme=react&hide_border=true&background=0D1117" alt="Thejan's GitHub Stats" />
   <br/><br/>
   <!-- Animated Snake Graph -->
   <img src="https://raw.githubusercontent.com/Thejan2006/Thejan2006/output/github-contribution-grid-snake.svg" alt="Animated visualisation of my GitHub contribution graph" width="100%" />
