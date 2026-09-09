@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:2563EB,100:7C3AED&height=200&section=header&text=Hi%2C%20I%27m%20Thejan%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Building%20with%20Python%2C%20AI%20%26%20the%20Web&descAlignY=61&descSize=19" width="100%" alt="Welcome banner" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Hi, I'm Thejan — Undergraduate in AI and Data Engineering" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=Turning+ideas+into+useful+digital+projects.;Python+%7C+Machine+Learning+%7C+React+%7C+Next.js;Always+learning.+Always+building." alt="Animated introduction" />
@@ -16,10 +16,11 @@
 
 ## About me
 
-I’m a developer from Sri Lanka who enjoys creating practical, user-focused projects. My work spans **Python**, **machine learning**, **data analysis**, and modern web experiences with **React** and **Next.js**.
+I’m an **undergraduate in AI and Data Engineering** from Sri Lanka who enjoys creating practical, user-focused projects. My work spans **Python**, **machine learning**, **data analysis**, and modern web experiences with **React** and **Next.js**.
 
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_Sri_Lanka-0F172A?style=flat-square" alt="Sri Lanka" />
+  <img src="https://img.shields.io/badge/Undergraduate-AI_%26_Data_Engineering-2563EB?style=flat-square" alt="AI and Data Engineering undergraduate" />
   <img src="https://img.shields.io/badge/Focus-Python_%26_AI-7C3AED?style=flat-square" alt="Focus on Python and AI" />
   <img src="https://img.shields.io/badge/Currently-Creating_%26_Learning-06B6D4?style=flat-square" alt="Creating and learning" />
 </div>
@@ -77,6 +78,14 @@ I’m a developer from Sri Lanka who enjoys creating practical, user-focused pro
     </td>
   </tr>
 </table>
+
+## Contribution activity
+
+<div align="center">
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Animated visualisation of my GitHub contribution graph" width="100%" />
+  <br />
+  <sub>This animation is generated from my real GitHub contribution graph and updates automatically.</sub>
+</div>
 
 ## Let’s connect
 
