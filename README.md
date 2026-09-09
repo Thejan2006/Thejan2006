@@ -1,7 +1,8 @@
 <!-- Profile README for GitHub -->
 
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Hi, I'm Thejan — Undergraduate in AI and Data Engineering" />
+  <!-- Dynamic Welcome Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=250&section=header&text=Hi,%20I'm%20Thejan%20%F0%9F%91%8B&fontSize=50&desc=Undergraduate%20in%20AI%20and%20Data%20Engineering&descAlignY=70&descAlign=50" width="100%" alt="Welcome Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=Turning+ideas+into+useful+digital+projects.;Python+%7C+Machine+Learning+%7C+React+%7C+Next.js;Always+learning.+Always+building." alt="Animated introduction" />
@@ -29,7 +30,7 @@ I’m an **undergraduate in AI and Data Engineering** from Sri Lanka who enjoys 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,react,nextjs,js,html,css,tailwind,git,github,vscode&theme=dark&perline=12" alt="Python, scikit-learn, Pandas, React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Git, GitHub and VS Code" />
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,react,nextjs,js,html,css,tailwind,git,github,vscode&theme=dark&perline=12" alt="Tech Stack" />
   </a>
 </div>
 
@@ -82,7 +83,11 @@ I’m an **undergraduate in AI and Data Engineering** from Sri Lanka who enjoys 
 ## Contribution activity
 
 <div align="center">
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Animated visualisation of my GitHub contribution graph" width="100%" />
+  <!-- Real GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Thejan2006&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9" alt="Thejan's GitHub Stats" />
+  <br/><br/>
+  <!-- Animated Snake Graph -->
+  <img src="https://raw.githubusercontent.com/Thejan2006/Thejan2006/output/github-contribution-grid-snake.svg" alt="Animated visualisation of my GitHub contribution graph" width="100%" />
   <br />
   <sub>This animation is generated from my real GitHub contribution graph and updates automatically.</sub>
 </div>
@@ -92,5 +97,5 @@ I’m an **undergraduate in AI and Data Engineering** from Sri Lanka who enjoys 
 I’m always open to learning, sharing ideas, and collaborating on interesting projects. Reach me by [email](mailto:hmagthejanbandar@gmail.com), [phone](tel:0740305400), or [LinkedIn](https://www.linkedin.com/in/dumidu-thejan-bandara-7473b331a/).
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2575FC,100:6A11CB&height=110&section=footer" width="100%" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=110&section=footer" width="100%" alt="Footer wave" />
 </div>
