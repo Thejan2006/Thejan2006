@@ -2,7 +2,8 @@
 
 <div align="center">
   <!-- Dynamic Welcome Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=250&section=header&text=Hi,%20I'm%20Thejan%20%F0%9F%91%8B&fontSize=50&desc=Undergraduate%20in%20AI%20and%20Data%20Engineering&descAlignY=70&descAlign=50" width="100%" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=250&section=header&text=Hi,%20I'm%20Thejan%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&desc=Undergraduate%20in%20AI%20and%20Data%20Engineering&descAlignY=70&descAlign=50&descColor=FFFFFF" width="100%" alt="Welcome Banner" />
+
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=Turning+ideas+into+useful+digital+projects.;Python+%7C+Machine+Learning+%7C+React+%7C+Next.js;Always+learning.+Always+building." alt="Animated introduction" />
