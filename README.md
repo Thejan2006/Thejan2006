@@ -4,7 +4,6 @@
   <!-- Dynamic Welcome Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=250&section=header&text=Hi,%20I'm%20Thejan%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&desc=Undergraduate%20in%20AI%20and%20Data%20Engineering&descAlignY=70&descAlign=50&descColor=FFFFFF" width="100%" alt="Welcome Banner" />
 
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=Turning+ideas+into+useful+digital+projects.;Python+%7C+Machine+Learning+%7C+React+%7C+Next.js;Always+learning.+Always+building." alt="Animated introduction" />
   </a>
@@ -39,12 +38,12 @@ I’m an **undergraduate in AI and Data Engineering** from Sri Lanka who enjoys 
 
 <div align="center">
 
-| Area | What I work with |
-| :-- | :-- |
-| ⚙️ Programming | Python, JavaScript |
-| 🤖 AI & Data | Machine Learning, Data Analysis |
-| ⚛️ Frontend | React, Next.js, HTML, CSS |
-| 🔧 Tools | Git, GitHub, VS Code |
+| Area           | What I work with                |
+| :------------- | :------------------------------ |
+| ⚙️ Programming | Python, JavaScript              |
+| 🤖 AI & Data   | Machine Learning, Data Analysis |
+| ⚛️ Frontend    | React, Next.js, HTML, CSS       |
+| 🔧 Tools       | Git, GitHub, VS Code            |
 
 </div>
 
@@ -77,6 +76,19 @@ I’m an **undergraduate in AI and Data Engineering** from Sri Lanka who enjoys 
       <h3>🛒 Isuru Computer E-commerce</h3>
       <p>Designed and built an e-commerce website experience for browsing and selling computer products online.</p>
       <p><img src="https://img.shields.io/badge/Web_Development-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" /> <img src="https://img.shields.io/badge/Frontend-EC4899?style=flat-square" alt="Frontend" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ <a href="https://github.com/Thejan2006/weather-2-wallpaper">Dynamic Weather Wallpaper</a></h3>
+      <p>Built a Python desktop automation app that fetches live weather data and automatically changes the Windows desktop wallpaper based on the current weather condition.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenWeather_API-2563EB?style=flat-square" alt="OpenWeather API" />
+        <img src="https://img.shields.io/badge/Windows_API-0F172A?style=flat-square" alt="Windows API" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
